@@ -45,9 +45,12 @@ body{
 }
 
 h1{
+    font-family: 'Outfit';
     color: var(--slate-9);
 }
 
 p{
+    font-family: 'Outfit';
     color: var(--slate-5);
+    margin: 0 5px;
 }
